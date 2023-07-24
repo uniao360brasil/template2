@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Ebrima";
+   src: url("fonts/Ebrima.woff") format("woff"), url("fonts/Ebrima.eot") format("embedded-opentype"), url("fonts/Ebrima.ttf") format("truetype"), url("fonts/Ebrima.svg") format("svg");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Ebrima";
+   src: url("fonts/Ebrima Bold.woff") format("woff"), url("fonts/Ebrima Bold.eot") format("embedded-opentype"), url("fonts/Ebrima Bold.ttf") format("truetype"), url("fonts/Ebrima Bold.svg") format("svg");
+   font-weight: bold;
+   font-style: normal;
+}
